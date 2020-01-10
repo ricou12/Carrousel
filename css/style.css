@@ -1,29 +1,41 @@
 
-
 #carrousel{
     position:relative;
     width: 80vw;
-    /* height:400px; */
-    /* overflow: hidden; */
     margin:auto;
-    border:1px solid red;
 }
 
 #carrousel ul li{
     position:absolute;
+    display: flex;
+    align-items: center;
+
     list-style: none;
     top:0;
     left:0;
-    transition: opacity 2s,transform 2s;
+    transition: opacity 1s;
+    border:1px solid red;
 }
 
 #carrousel ul li img {
-    
     width: 100%;
 }
 
 .hidden{
     opacity: 0!important;
-    filter: grayscale(1);
+    filter: grayscale();
+    /* transform:rotateY(180deg); */
 }
 
+#carrousel ul li button{
+    position: absolute;
+}
+
+.btn-1{
+left:10px;
+
+}
+.btn-2{
+right:10px;
+ 
+ }

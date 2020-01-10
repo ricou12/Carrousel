@@ -14,4 +14,4 @@ function Carrousel(){
     console.log($val);
 }
 
-setInterval(Carrousel,3000);
+setInterval(Carrousel,5000);
