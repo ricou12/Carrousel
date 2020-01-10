@@ -1,0 +1,29 @@
+
+
+#carrousel{
+    position:relative;
+    width: 80vw;
+    /* height:400px; */
+    /* overflow: hidden; */
+    margin:auto;
+    border:1px solid red;
+}
+
+#carrousel ul li{
+    position:absolute;
+    list-style: none;
+    top:0;
+    left:0;
+    transition: opacity 2s,transform 2s;
+}
+
+#carrousel ul li img {
+    
+    width: 100%;
+}
+
+.hidden{
+    opacity: 0!important;
+    filter: grayscale(1);
+}
+
