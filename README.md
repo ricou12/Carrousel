@@ -1,1 +1,1 @@
-#[Carrousel](https://ricou12.github.io/Carrousel/)
+# [Carrousel avec jquery et typeSript](https://ricou12.github.io/Carrousel/)
