@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="97.5" height="68" viewBox="0 0 97.5 68">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #020202;
+        stroke-linejoin: round;
+        stroke-opacity: 0.66;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="3" y="19" width="101" height="67" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="3" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="2.646"/>
+      <feFlood result="flood" flood-opacity="0.35"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+      <feGaussianBlur result="blur-2" stdDeviation="2.646" in="SourceAlpha"/>
+      <feFlood result="flood-2" flood-opacity="0.35"/>
+      <feComposite result="composite-2" operator="out" in2="blur-2"/>
+      <feOffset result="offset-2" dy="3"/>
+      <feComposite result="composite-3" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-2" mode="multiply" in2="blend"/>
+      <feGaussianBlur result="blur-3" stdDeviation="2.646" in="SourceAlpha"/>
+      <feFlood result="flood-3" flood-opacity="0.35"/>
+      <feComposite result="composite-4" operator="out" in2="blur-3"/>
+      <feOffset result="offset-3" dy="3"/>
+      <feComposite result="composite-5" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-3" mode="multiply" in2="blend-2"/>
+    </filter>
+  </defs>
+  <g transform="translate(-2.5 -18.5)" style="fill: #fff; filter: url(#filter)">
+    <path id="Forme_1" data-name="Forme 1" class="cls-1" d="M92.321,75.02H88.487c-2.567,0-4.667-2.519-4.667-5.6V28.569c0-3.071,2.1-5.589,4.667-5.589h3.834c2.567,0,4.667,2.519,4.667,5.589V69.418C96.988,72.5,94.888,75.02,92.321,75.02Zm-40.778-3.63c-2.99,2-5.437.276-5.437-3.83V30.439c0-4.106,2.446-5.828,5.437-3.828L79.649,45.37c2.991,2,2.991,5.262,0,7.26Zm-37.095,0c-2.99,2-5.436.276-5.436-3.83V30.439c0-4.106,2.446-5.828,5.436-3.828L42.554,45.37c2.99,2,2.99,5.262,0,7.26Z" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use transform="translate(-2.5 -18.5)" xlink:href="#Forme_1" style="stroke: #020202; filter: none; fill: none"/>
+</svg>

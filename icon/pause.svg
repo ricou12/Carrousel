@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="81" height="83.063" viewBox="0 0 81 83.063">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #020202;
+        stroke-linejoin: round;
+        stroke-opacity: 0.66;
+        stroke-width: 1px;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="10" y="8.969" width="80" height="82.063" filterUnits="userSpaceOnUse">
+      <feGaussianBlur result="blur" stdDeviation="2.646" in="SourceAlpha"/>
+      <feFlood result="flood" flood-opacity="0.35"/>
+      <feComposite result="composite" operator="out" in2="blur"/>
+      <feOffset result="offset" dy="-3"/>
+      <feComposite result="composite-2" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend" mode="multiply" in2="SourceGraphic"/>
+      <feGaussianBlur result="blur-2" stdDeviation="2.646" in="SourceAlpha"/>
+      <feFlood result="flood-2" flood-opacity="0.35"/>
+      <feComposite result="composite-3" operator="out" in2="blur-2"/>
+      <feOffset result="offset-2" dy="-3"/>
+      <feComposite result="composite-4" operator="in" in2="SourceAlpha"/>
+      <feBlend result="blend-2" mode="multiply" in2="blend"/>
+    </filter>
+  </defs>
+  <g transform="translate(-9.5 -8.469)" style="fill: #fff; filter: url(#filter)">
+    <path id="Forme_3" data-name="Forme 3" class="cls-1" d="M80.427,91.032H72.556c-5.27,0-9.581-3.972-9.581-8.824V17.792c0-4.853,4.311-8.824,9.581-8.824h7.871c5.269,0,9.581,3.972,9.581,8.824V82.208C90.008,87.06,85.7,91.032,80.427,91.032Zm-52.983,0H19.573c-5.269,0-9.581-3.972-9.581-8.824V17.792c0-4.853,4.312-8.824,9.581-8.824h7.871c5.269,0,9.581,3.972,9.581,8.824V82.208C37.025,87.06,32.713,91.032,27.444,91.032Z" style="stroke: inherit; filter: none; fill: inherit"/>
+  </g>
+  <use transform="translate(-9.5 -8.469)" xlink:href="#Forme_3" style="stroke: #020202; filter: none; fill: none"/>
+</svg>

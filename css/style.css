@@ -1,41 +1,90 @@
-
-#carrousel{
-    position:relative;
-    width: 80vw;
-    margin:auto;
+/* ------------------------------------
+        CONTENEUR GLOBAL
+------------------------------------- */
+h1{
+text-align: center;
 }
 
-#carrousel ul li{
-    position:absolute;
-    display: flex;
-    align-items: center;
+#carrousel {
+    position: relative;
+    height: auto;
+    margin: auto;
+}
 
+#carrousel ul li {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     list-style: none;
-    top:0;
-    left:0;
-    transition: opacity 1s;
-    border:1px solid red;
+    top: 0;
+    left: 0;
+    transition: opacity 2s;
+    border: 1px solid gray;
 }
 
 #carrousel ul li img {
     width: 100%;
 }
 
-.hidden{
-    opacity: 0!important;
+/* ------------------------------------
+        MASQUER LES ELEMENTS
+------------------------------------- */
+.hidden {
+    opacity: 0 !important;
     filter: grayscale();
-    /* transform:rotateY(180deg); */
 }
 
-#carrousel ul li button{
+/* ------------------------------------
+    CONTENEUR BOUTON DE NAVIGATION
+------------------------------------- */
+#carrousel ul li .btn-link {
+    display: flex;
+    justify-content: space-between;
     position: absolute;
+    width: 98%;
+    opacity: 0;
+    transition: 0.4s;
 }
 
-.btn-1{
-left:10px;
-
+@keyframes fadeIn{
+    10%{opacity:1;}
+    80%{opacity:0;} 
 }
-.btn-2{
-right:10px;
- 
- }
+
+#carrousel ul:hover li .btn-link {
+   opacity: 1;
+   /* animation:fadeIn 5s;  */
+}
+
+#carrousel ul li .btn-link .btn-link--size{
+    cursor: pointer;
+    width: 10vw;
+    max-width: 50px;
+}
+
+/* ------------------------------------
+        CONTENEUR LIEN VERS IMAGES
+------------------------------------- */
+#carrousel ul li .btn-tiret {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    width: 100%;
+    bottom: 10px;
+    opacity: 0;
+    transition: 0.4s;
+}
+
+#carrousel ul:hover li .btn-tiret {
+    cursor: pointer;
+    opacity: .8;
+}
+
+#carrousel ul li .btn-tiret * {
+    padding: 2px;
+    cursor: pointer;
+    opacity: 1;
+    width: 30px;
+    border-radius: 5px;
+}
