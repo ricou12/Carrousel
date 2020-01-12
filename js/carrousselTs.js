@@ -7,11 +7,11 @@ var CarrousselTs = /** @class */ (function () {
         this.idInterval = undefined;
         $('#carrousel ul li').append('<div class="btn-tiret"></div>');
         for (var i = 0; i < maxiImg; i++) {
-            $('#carrousel ul li .btn-tiret').append("<img class=\"btn-tiret-" + i + "\" value=\"" + i + "\" src=\"./icon/tiret1.svg\" alt=\"\" />");
+            $('#carrousel ul li .btn-tiret').append("<img class=\" btn-tiret-" + i + "\" value=\"" + i + "\" src=\"./icon/tiret1.svg\" alt=\"\" />");
         }
         $("#carrousel ul li .btn-tiret .btn-tiret-0").css("background-color", "black");
         // create btn navigation next pause/play preview
-        $("#carrousel ul li").append("<div class=\"btn-link\">\n            <img class=\"btn-link--size btn-link_preview\" src=\"./icon/arr.svg\" alt=\"\" />\n            <img class=\"btn-link--size btn-link_next\" src=\"./icon/avt.svg\" alt=\"\" />\n            </div>");
+        $("#carrousel ul li").append("<div class=\"btn-link\">\n            <img class=\"btn-link--size btn-link_preview\" src=\"./icon/prev.svg\" alt=\"\" />\n            <img class=\"btn-link--size btn-link_next\" src=\"./icon/next.svg\" alt=\"\" />\n            </div>");
         // Stop la propagation de l'evenement sur le conteneur parent qui lui aussi attends un event click
         $('#carrousel .btn-link').on('click', function () { return event.stopPropagation(); });
         // evt précédent

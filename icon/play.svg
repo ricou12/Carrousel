@@ -1,34 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50.89" height="52.703" viewBox="0 0 57 59.031">
-  <metadata><?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
-   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-      <rdf:Description rdf:about=""/>
-   </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?></metadata>
-<defs>
-    <style>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:x="adobe:ns:meta/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50.89"
+   height="52.703"
+   viewBox="0 0 57 59.031"
+   version="1.1"
+   id="svg38"
+   sodipodi:docname="play.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview40"
+     showgrid="false"
+     inkscape:zoom="4.4779235"
+     inkscape:cx="43.328283"
+     inkscape:cy="26.3515"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg38" />
+  <metadata
+     id="metadata2">
+<?xpacket begin="ÿ" id="W5M0MpCehiHzreSzNTczkc9d"?>    <x:xmpmeta
+       x:xmptk="Adobe XMP Core 5.6-c138 79.159824, 2016/09/14-01:09:01        ">
+      <metadata>
+        <rdf:RDF>
+          <rdf:Description
+             rdf:about="" />
+          <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type
+               rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+          </cc:Work>
+        </rdf:RDF>
+      </metadata>
+    </x:xmpmeta>
+<?xpacket end="w"?>  </metadata>
+  <defs
+     id="defs31">
+    <style
+       id="style4">
       .cls-1 {
         fill: #fff;
         stroke: #020202;
@@ -39,23 +68,90 @@
         filter: url(#filter);
       }
     </style>
-    <filter id="filter" x="22" y="21" width="56" height="58.031" filterUnits="userSpaceOnUse">
-      <feGaussianBlur result="blur" stdDeviation="2.646" in="SourceAlpha"/>
-      <feFlood result="flood" flood-opacity="0.35"/>
-      <feComposite result="composite" operator="out" in2="blur"/>
-      <feOffset result="offset" dy="-3"/>
-      <feComposite result="composite-2" operator="in" in2="SourceAlpha"/>
-      <feBlend result="blend" mode="multiply" in2="SourceGraphic"/>
-      <feGaussianBlur result="blur-2" stdDeviation="2.646" in="SourceAlpha"/>
-      <feFlood result="flood-2" flood-opacity="0.35"/>
-      <feComposite result="composite-3" operator="out" in2="blur-2"/>
-      <feOffset result="offset-2" dy="-3"/>
-      <feComposite result="composite-4" operator="in" in2="SourceAlpha"/>
-      <feBlend result="blend-2" mode="multiply" in2="blend"/>
+    <filter
+       id="filter"
+       x="22"
+       y="21"
+       width="56"
+       height="58.031"
+       filterUnits="userSpaceOnUse">
+      <feGaussianBlur
+         result="blur"
+         stdDeviation="2.646"
+         in="SourceAlpha"
+         id="feGaussianBlur6" />
+      <feFlood
+         result="flood"
+         flood-opacity="0.35"
+         id="feFlood8" />
+      <feComposite
+         result="composite"
+         operator="out"
+         in2="blur"
+         id="feComposite10" />
+      <feOffset
+         result="offset"
+         dy="-3"
+         id="feOffset12" />
+      <feComposite
+         result="composite-2"
+         operator="in"
+         in2="SourceAlpha"
+         id="feComposite14" />
+      <feBlend
+         result="blend"
+         mode="multiply"
+         in2="SourceGraphic"
+         id="feBlend16" />
+      <feGaussianBlur
+         result="blur-2"
+         stdDeviation="2.646"
+         in="SourceAlpha"
+         id="feGaussianBlur18" />
+      <feFlood
+         result="flood-2"
+         flood-opacity="0.35"
+         id="feFlood20" />
+      <feComposite
+         result="composite-3"
+         operator="out"
+         in2="blur-2"
+         id="feComposite22" />
+      <feOffset
+         result="offset-2"
+         dy="-3"
+         id="feOffset24" />
+      <feComposite
+         result="composite-4"
+         operator="in"
+         in2="SourceAlpha"
+         id="feComposite26" />
+      <feBlend
+         result="blend-2"
+         mode="multiply"
+         in2="blend"
+         id="feBlend28" />
     </filter>
   </defs>
-  <g transform="translate(-21.5 -20.5)" style="fill: #fff; filter: url(#filter)">
-    <path id="Forme_2_copie" data-name="Forme 2 copie" class="cls-1" d="M30.511,22.031c-4.678-2.5-8.5-.338-8.5,4.782V73.185c0,5.121,3.827,7.28,8.5,4.784L74.484,54.534c4.678-2.5,4.678-6.573,0-9.069Z" style="stroke: inherit; filter: none; fill: inherit"/>
+  <g
+     transform="matrix(0.74093893,0,0,0.71551645,-8.5469464,-6.271413)"
+     style="fill:#ffffff;filter:url(#filter)"
+     id="g34">
+    <path
+       id="Forme_2_copie"
+       data-name="Forme 2 copie"
+       class="cls-1"
+       d="m 30.511,22.031 c -4.678,-2.5 -8.5,-0.338 -8.5,4.782 v 46.372 c 0,5.121 3.827,7.28 8.5,4.784 L 74.484,54.534 c 4.678,-2.5 4.678,-6.573 0,-9.069 z"
+       style="fill-rule:evenodd;stroke-width:1px;stroke-linejoin:round;stroke-opacity:0.66000001"
+       inkscape:connector-curvature="0" />
   </g>
-  <use transform="translate(-21.5 -20.5)" xlink:href="#Forme_2_copie" style="stroke: #020202; filter: none; fill: none"/>
+  <use
+     transform="matrix(0.77944239,0,0,0.71551644,-9.7217254,-6.2714128)"
+     xlink:href="#Forme_2_copie"
+     style="fill:none;stroke:#020202"
+     id="use36"
+     x="0"
+     y="0"
+     width="100%"
+     height="100%" />
 </svg>
