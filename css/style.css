@@ -6,6 +6,7 @@ text-align: center;
 }
 
 #carrousel {
+    border: 1px solid red;
     position: relative;
     height: auto;
     margin: auto;
